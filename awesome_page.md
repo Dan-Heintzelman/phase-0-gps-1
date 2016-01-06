@@ -1,12 +1,13 @@
 **Make something bold**
 *Here is something fancy*
+---------------------------
 '''
-#here is a code block
-  x = y
-  y = the sum of pi
-  if true:
-    then do this
-    break
+      #here is a code block
+        x = y
+        y = the sum of pi
+        if true:
+            then do this
+            break
 '''
 Here is a [meta] link (https://github.com/Heintzdm/phase-0-gps-1/blob/master/awesome_page.md)
 
