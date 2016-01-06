@@ -4,7 +4,7 @@
 ```
       #here is a 'code block'
         x = y
-        y = the sum of pi
+        after thought = the sum of pi
         if true:
             then do this
             break
